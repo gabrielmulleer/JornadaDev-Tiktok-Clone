@@ -8,7 +8,7 @@ Este foi um desafio para o [Jornada FULL STACK: Criando um clone do TikTok!](htt
   - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construído com](#construido-com)
+  - [Construído com](#construído-com)
 - [Autor](#autor)
 
 ## Visão geral
