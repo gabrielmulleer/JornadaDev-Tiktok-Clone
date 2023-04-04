@@ -26,6 +26,7 @@ Este foi um desafio para o [Jornada FULL STACK: Criando um clone do TikTok!](htt
 
 ### Construído com
 
+- HTML5
 - Propriedades personalizadas CSS
 - CSS Grid
 - Mobile-first
